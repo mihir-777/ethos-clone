@@ -1,0 +1,28 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="submarinerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a5490;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2a7ac0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a3060;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <ellipse cx="200" cy="200" rx="80" ry="80" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="3"/>
+  
+  <circle cx="200" cy="200" r="70" fill="#001a33" stroke="#2a7ac0" stroke-width="2"/>
+  
+  <circle cx="200" cy="200" r="5" fill="#00ffff"/>
+  
+  <line x1="200" y1="200" x2="200" y2="150" stroke="#00ffff" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="200" x2="230" y2="200" stroke="#00ffff" stroke-width="2" stroke-linecap="round"/>
+  
+  <rect x="180" y="100" width="40" height="15" rx="3" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="1"/>
+  
+  <rect x="120" y="180" width="160" height="40" rx="5" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="2"/>
+  <rect x="120" y="140" width="160" height="40" rx="5" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="2"/>
+  <rect x="120" y="220" width="160" height="40" rx="5" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="2"/>
+  <rect x="120" y="260" width="160" height="40" rx="5" fill="url(#submarinerGradient)" stroke="#0a3060" stroke-width="2"/>
+  
+  <text x="300" y="100" font-family="Arial, sans-serif" font-size="14" fill="#2a7ac0" font-weight="bold">ROLEX</text>
+  <text x="300" y="120" font-family="Arial, sans-serif" font-size="10" fill="#4a9ad0">SUBMARINER</text>
+</svg>

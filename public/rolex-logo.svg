@@ -1,0 +1,6 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" fill="white"/>
+  <circle cx="50" cy="50" r="25" fill="#D4AF37"/>
+  <text x="90" y="45" font-family="Arial" font-size="12" fill="#000">ROLEX</text>
+  <text x="90" y="60" font-family="Arial" font-size="8" fill="#666">OFFICIAL RETAILER</text>
+</svg>
